@@ -1,0 +1,4 @@
+# This code is used to direct piclsymposium.org to the respective year or source.
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(www.)?piclssymposium.org$
+RewriteRule ^(/)?$ 2014 [L]
