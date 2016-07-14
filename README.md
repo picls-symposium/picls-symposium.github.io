@@ -1,2 +1,2 @@
-piclssymposium
+picls-symposium
 ==============
