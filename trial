@@ -1,0 +1,781 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+ <!-- leave this for stats please -->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+
+    <title> PiCLS Symposium 2016   </title>
+
+    
+    
+    
+    
+
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="style/ie8.css" media="screen, projection" type="text/css" >
+<![endif]-->
+
+<!--[if IE 9]>
+<link rel="stylesheet" href="style/ie9.css" media="screen, projection" type="text/css" >
+<![endif]-->
+
+
+<!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+   </script>
+<![endif]-->
+    
+        <!-- Favicon -->
+                <link rel="shortcut icon" href="https://cloud.githubusercontent.com/assets/8017317/13004414/487a99b8-d173-11e5-8231-16719e7eeccc.png" />
+
+    <!-- Google Analitics -->    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-44041786-1', 'picls-symposium.org');
+  ga('send', 'pageview');
+</script>
+
+
+
+<link rel='stylesheet' id='thickbox-css'  href='http://www.picls-symposium.org/2014/wp-includes/js/thickbox/thickbox.css?ver=20121105' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://www.picls-symposium.org/2014/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://www.picls-symposium.org/2014/wp-content/plugins/revslider/rs-plugin/css/captions.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main_style-css'  href='http://www.picls-symposium.org/2014/wp-content/themes/eventor/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/menu/superfish.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tabs-css'  href='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/tabs/jquery-ui-1.10.1.custom.min.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/fancybox/source/jquery.fancybox.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/flexslider/flexslider.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='scroll-button-css'  href='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/scroll-button/scroll-button.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='horizontal-slider-css'  href='http://www.picls-sympos201ium.org/2014/wp-content/themes/eventor/script/horizontal/skin.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slitcss-css'  href='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/slit-slider/css/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='customslitcss-css'  href='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/slit-slider/css/custom.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Anvo-css'  href='http://fonts.googleapis.com/css?family=Arvo%3A400%2C700&#038;ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google_fonts-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='evr_public-css'  href='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/evr_public_style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='evr_calendar-css'  href='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/evr_calendar.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='evr_pop_style-css'  href='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/evr_pop_style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='evr_fancy_style-css'  href='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/scripts/fancybox/jquery.fancybox-1.3.4.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='evr_colorbox_style-css'  href='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/colorbox/css/colorbox.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/2014\/","uid":"0","time":"1404030537"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/utils.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=3.6.1'></script>
+
+ 
+
+<!--Event Registration -->
+<style type="text/css">
+    body {
+        background-color:!important;
+    }
+    
+    .nav ul li a:link, .nav ul li a:visited {
+        color: !important;
+    }
+    
+    .nav ul li a:hover, .nav ul li.active a, .sf-menu .sub-menu a:hover, .nav nav .sf-menu li.current-menu-item > a {
+        color: !important;
+    }
+    
+    .slider-home {
+        background-color:;    }
+  
+    .header {
+        background:#086012;
+    }
+    
+    .home-ticket-box-center {
+        background:#086012;
+    }
+    .footer {
+        background-color:#086012;
+    }
+    
+    .home-ticket-box-center .call-to-action-title {
+        color:;     }
+    
+    .home-ticket-box-center span {
+        color:;     }
+    
+    .home-ticket-box-center .shortcodes p {
+        color:!important:
+    }
+    
+    .shortcodes a:hover, .shortcodes p a:hover, .shortcodes p, .home-speaker-excerpt, .blog-one-text, .sidebar_widget_holder ul li a, .sidebar_widget_holder .textwidget p, .sidebar_widget_holder ul li, .comment-start-text p, .comment-start-text a:hover, .sidebar_widget_holder .textwidget, .sidebar_widget_holder .newsletter span, .sidebar_widget_holder tbody, .blog-categories ul li span, .tabs .tab div, .call-to-action-shortcode .home-call-action-text p, .shortcodes, .shortcodes ol li, .speakers-text p, .home-ticket-box-center a:hover, .home-post-one-text a:hover, .sticky, .textwidget a:hover, .shortcodes ul li, .speakers-text a:hover {
+        color:!important;
+    }
+    
+    .shortcodes a, .shortcodes p a, .home-post-center-content h5 a, .home-post-one-text a, .footer-copy-content span a, .blog-categories ul li a:hover, .post-link-down a, .blog-one-title a:hover, .sidebar_widget_holder ul li a:hover, .sidebar_widget_holder li.recentcomments, .textwidget a, .sidebar_widget_holder ul li a:hover, .title-page-content span, .sidebar_widget_holder tfoot a:hover, .sidebar_widget_holder .post-date, .sidebar_widget_holder .rss-date, .home-post-one-button a:hover, .sidebar_widget_holder h3 .rsswidget:hover, .pagination span, .pagination a:hover, .sidebar_widget_holder .current-menu-item a, .sidebar_widget_holder .tag-center:hover, .comment-start-title a, .comment-start-text a, .form input.search-submit-button:hover, .sidebar_widget_holder #s input.search-submit-button:hover, .toggle-holder span, .tabs .ui-state-active a, .tabs .ui-state-active a:link, .tabs .ui-state-active a:visited, .tabs .ui-state-default a, .tabs .ui-state-default a:link, .tabs .ui-state-default a:visited, .speakers-text a, .speakers-filter a.active, .speakers-filter a:hover, .speakers-single-text h6, .home-ticket-box-center a, .home-ticket-box-right a:hover, .home-post-one-text.only-speakers .home-post-one-button a:hover, .speakers-folow ul li a:hover, .home-single-program h5 a {
+        color:!important;
+    }
+    
+    .bg-sidebar-newsletter:hover .newsletter-icon, .links-header ul li:hover .soc-icon-bg, #back-top:hover span.soc-icon-bg {
+        background: ;
+    }
+    
+    h1, h2, h3, h4, h5, .sidebar_widget_holder h3 .rsswidget, .blog-one-title, .blog-one-title a, .sidebar_widget_holder #wp-calendar caption, .sidebar_widget_holder thead, .sidebar_widget_holder tfoot a {
+        color: !important;
+    }
+    
+    .footer_widget_holder h2, .footer_widget_holder h2 a.rsswidget {
+        color:!important;
+    }
+     .footer_widget_holder .textwidget, .footer_widget_holder .textwidget p, .footer_widget_holder .box-twitter-center span, .footer_widget_holder .rsswidget, .footer_widget_holder .rssSummary, .footer_widget_holder cite, .footer_widget_holder .newsletter span, .footer_widget_holder .recentcomments a, .footer_widget_holder li a, .footer_widget_holder li, .footer_widget_holder .box-twitter-center a:hover, .footer_widget_holder .textwidget a:hover {
+        color:!important;
+    }
+    
+    .footer_widget_holder .box-twitter-center a, .footer_widget_holder .tagcloud .tag-center:hover, .footer_widget_holder .twitter_ul span.twitter-links, .footer_widget_holder .rss-date, .footer_widget_holder .twitter_ul span.twitter-links, .footer_widget_holder li a:hover, .footer_widget_holder .recentcomments a:hover, .footer_widget_holder #recentcomments li, .footer_widget_holder .textwidget a, .footer_widget_holder .post-date, .footer-copy-content span a:hover {
+        color: !important;
+    }
+</style></head>
+<body class="home blog" >
+    
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=113020565471594";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+
+<div id="container">
+
+
+
+    <!-- HEADER -->
+    <div class="header left">
+        <div class="border-header left"></div><!--/border-header-->
+    	<div class="wrapper">
+
+            <!--LOGO-->
+                        
+            <div class="logo left">
+                <a href="http://www.picls-symposium.org/2016"><img src="https://cloud.githubusercontent.com/assets/8017317/15355788/d8d701bc-1cec-11e6-9d2f-740bf71d5511.png" alt="PiCLS Symposium 2016" title="PiCLS Symposium 2016" /></a>
+                <span></span>
+            </div><!--/logo-->
+
+            <!--SOCIAL ICONS-->
+            <div class="links-header right">
+                
+                                      
+                <ul>
+                     <li><span>Stay tuned</span></li>
+                                                    <li>
+                                <a href="http://twitter.com/PiCLSSymposium" class="icon-header-1"></a>
+                                <div class="soc-icon-bg"></div>
+                            </li>
+                        
+                                                    <li>
+                                <a href="http://facebook.com/pages/PiCLS/179849863099?fref=ts" class="icon-header-2"></a>
+                                <div class="soc-icon-bg"></div>
+                            </li>
+                        
+                                                <li>
+                            <a href="/2014/feed/" class="icon-header-3"></a>
+                            <div class="soc-icon-bg"></div>
+                        </li>
+                        
+                                        </ul>
+                        
+            </div><!--/links-header-->
+        </div><!--/wrapper-->
+
+
+        <!--MENU-->
+        <div class="nav left">
+            
+            <div class="wrapper">
+                <div class="button-menu"><a href="#"></a></div><!--/button-menu-->
+            </div><!--/wrapper-->
+            
+            <nav>
+            <div class="wrapper">
+            <div class="menu-menu-1-container"><ul id="menu-menu-1" class="sf-menu"><li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-67"><a href="http://www.picls-symposium.org/2016/">Home</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://www.picls-symposium.org/2016/registration/">Registration</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="http://www.picls-symposium.org/2016/program/">Program</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://www.picls-symposium.org/2016/speakers/">Speakers</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://www.picls-symposium.org/2016/sponsors/">Sponsors</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.picls-symposium.org/2016/committee-2016/">2016 Committee</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="http://www.picls-symposium.org/2016/previous-symposia/">Previous Symposia</a>
+<ul class="sub-menu">
+	 <li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="http://picls-symposium.org/2015/">Symposium 2015</a></li>
+         <li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="http://picls-symposium.org/2014/">Symposium 2014</a></li>
+         <li id="menu-item-76" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76"><a href="http://picls-symposium2013.wordpress.com/">Symposium 2013</a></li>
+	<li id="menu-item-77" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77"><a href="http://picls.lifesci.dundee.ac.uk/symposium2012/index.html">Symposium 2012</a></li>
+	<li id="menu-item-78" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78"><a href="http://picls.lifesci.dundee.ac.uk/symposium2011/index.html">Symposium 2011</a></li>
+	<li id="menu-item-79" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79"><a href="http://picls.lifesci.dundee.ac.uk/symposium/#programme">Symposium 2010</a></li>
+	
+</ul>
+</li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://www.picls-symposium.org/2016/venue-contact/">Venue &#038; Contact</a></li>
+</ul></div>            </div><!--/wrapper-->
+            </nav>
+
+        </div><!--/nav-->
+    </div><!--/header-->
+
+        
+
+                        <div class="slider-home left">
+                				
+				<!-- START REVOLUTION SLIDER 2.3.91 -->
+				
+								
+								<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper" style="margin:0px auto;background-color:#E9E9E9;padding:5px;margin-top:0px;margin-bottom:0px;height:460px;width:980px;">
+					<div id="rev_slider_1_1" class="rev_slider" style="display:none;height:460px;width:980px;">						
+										<ul>																	                 <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+						<img src="http://www.picls-symposium.org/2014/wp-content/uploads/2013/09/CLS.jpg"  alt="CLS" >
+														
+				<div class="tp-caption paragraph_tbg fade"  
+					 data-x="540" 
+					 data-y="380" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >College of Life Sciences, University of Dundee</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+						<img src="http://www.picls-symposium.org/2014/wp-content/uploads/2013/09/dundee.png"  alt="dundee" >
+														
+				<div class="tp-caption paragraph_tbg fade"  
+					 data-x="730" 
+					 data-y="380" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >Dundee City by Night</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+						<img src="http://www.picls-symposium.org/2014/wp-content/uploads/2013/09/westpark.png"  alt="westpark" >
+														
+				<div class="tp-caption paragraph_tbg fade"  
+					 data-x="600" 
+					 data-y="380" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >West Park Conference Centre, Dundee</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+						<img src="http://www.picls-symposium.org/2014/wp-content/uploads/2013/09/coffee.png"  alt="coffee" >
+														
+				<div class="tp-caption paragraph_tbg fade"  
+					 data-x="650" 
+					 data-y="380" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >Coffee Break, Symposium 2013</div>
+												</li>
+									<li data-transition="random" data-slotamount="7" data-masterspeed="300" >
+						<img src="http://www.picls-symposium.org/2014/wp-content/uploads/2013/09/talk.png"  alt="talk" >
+														
+				<div class="tp-caption paragraph_tbg fade"  
+					 data-x="480" 
+					 data-y="380" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  >Lecture by Prof. Sir Michael Berridge, Symposium 2013</div>
+												</li>
+								</ul>
+									<div class="tp-bannertimer"></div>					</div>
+				</div>				
+							
+			<script type="text/javascript">
+				var tpj=jQuery;
+				
+									tpj.noConflict();
+								
+				var revapi1;
+				
+				tpj(document).ready(function() {
+				
+				if (tpj.fn.cssOriginal != undefined)
+					tpj.fn.css = tpj.fn.cssOriginal;
+				
+				if(tpj('#rev_slider_1_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				else
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{
+						delay:9000,
+						startwidth:980,
+						startheight:460,
+						hideThumbs:200,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+						navigationType:"bullet",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+						
+						touchenabled:"on",
+						onHoverStop:"on",
+						
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+								
+						shadow:2,
+						fullWidth:"off",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0	
+					});
+				
+				});	//ready
+				
+			</script>
+			
+							<!-- END REVOLUTION SLIDER -->
+				            </div><!--/home-slider-->
+                    
+                
+            
+
+    <!-- CONTENT -->
+    <div class="content left">
+        <div class="border-white left"></div>
+        <div class="wrapper">
+
+            
+                <script type="text/javascript">
+                    jQuery(document).ready(function(){
+                        var time = new Date();
+                        time = new Date(2016,09,17,08,30);
+                        jQuery('.jcounter').countdown({
+                            until: time,
+                            timeSeparator: " ",
+                            compact: true,
+                            layout: '{dnnn} {hnn} {mnn}',
+                            description: '',
+                            compactLabels: ['', '', '', '']
+                        });
+                    })
+                </script>
+
+            <div class="home-ticket-box left">
+                <div class="home-ticket-box-center left">
+                    <div class="home-ticket-box-left left">
+                        <div class="call-to-action-title">PiCLS Symposium</div>
+                        <span>17th October 2016 at the West Park Conference Centre - Dundee</span>
+                        <div class="shortcodes"><p>Welcome to the 7th Annual PiCLS Symposium.<br />
+The event is open to all staff and students and promises to be as exciting as previous years. We will have a wide range of renowned guest speakers covering a large spectrum of life sciences research. </p></div>
+                    </div><!--/home-ticket-box-left-->
+                    <div class="home-ticket-box-right right">
+
+                                                  <div class="counter-holder">
+                                <div>
+                                    <div class="counter-text">Days</div>
+                                    <div class="counter-text hours">Hours</div>
+                                    <div class="counter-text">Minutes</div>
+                                </div>
+
+ <div class="counter-bg">
+                                        <div class="jcounter"></div>
+                                    </div>
+
+                            </div>
+
+                            <div class="clear"></div>
+                                                
+                        <a href="http://www.picls-symposium.org/2016/registration/">
+                                Registration is <br> closed                 </a>
+                    </div><!--/home-ticket-box-right-->
+                </div><!--/home-ticket-box-center-->
+            </div><!--/home-ticket-box-->
+
+        
+                <div class="shortcodes left">
+                        <div class="one-third "><p></p>
+<h3>Why should I Attend?</h3>
+<p>The PiCLS symposium is an outstanding occasion to expand your scientific perspectives and interests as well as an opportunity to meet top researchers.<br />
+</p></div>
+<div class="one-third "><p></p>
+<h3>Presented by Students</h3>
+<p>We are a group of PhD students from the University of Dundee (<a href="committee-2016/">the committee 2016</a>) and we have the pleasure to invite you to this year Symposium.<br />
+</p></div>
+<div class="one-third "><p></p>
+<h3>For Students</h3>
+<p>We highly encourage PhD students to participate in the Symposium by submitting their research. Prizes will be awarded to top posters and to the best student talk!<br />
+</p></div>
+            </div><!--/wrapper-->
+
+        
+            </div><!--/wrapper-->
+
+            <div class="wrapper">
+ 
+                <div class="bg-home-post right">
+                <div class="bg-home-post-top left">
+                    <span>Program Schedule</span>
+                    <a href="http://www.picls-symposium.org/2016/program/">
+                        <div class="more-info-button">More Info</div>
+                    </a>
+                </div><!--/bg-home-post-top-->
+                <div class="bg-home-post-center left">
+                    <div class="home-post-center-content left">
+
+                
+                    <h5></h5>
+                        <span>08:30 - 09:00 &nbsp;&nbsp;Registration and Coffee</span>
+                        <div class="shortcodes left">
+            <p><strong> Session 1 – Chair: Kevin Roth</strong></p>
+                        </div>
+                                    
+                        <span>09:00 - 09:15 &nbsp;&nbsp;Introdution and Welcome by Prof. Mike Ferguson</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                    
+                        <span>09:15 - 10:00 &nbsp;&nbsp;Professor Tim de Meyer, University of Ghent</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                                                
+                        <span>10:00 - 10:30 &nbsp;&nbsp;iGEM Dundee</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                                                
+                        <span>10:30 - 10:50 &nbsp;&nbsp;Holly Robertson</span>
+                        <div class="shortcodes left">
+                                                    </div>     
+                                                    
+                        <span>11:05 - 11:10 &nbsp;&nbsp;Coffee Break</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                    
+                        <div class="shortcodes left">
+            <p><strong> Session 2 – Chair: Elda Iljazi</strong></p>
+                        </div>
+                                    
+                        <span>11:10 - 11:50 &nbsp;&nbsp;Dr. Sara Zanivan, University of Glasgow</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                                
+                        <span>11:50 - 12:40 &nbsp;&nbsp;Professor Markus Aebi, ETH Zurich</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                                
+                        <span>12:40 - 14:40 &nbsp;&nbsp;Lunch and Poster Session</span>
+                        <div class="shortcodes left">
+                                                    </div>
+
+                        <div class="shortcodes left">
+            <p><strong> Session 3 – Chair: Giulia Vallardi</strong></p>
+                        </div>
+                                    
+                        <span>14:40 - 15:25 &nbsp;&nbsp;Professor Wendy Bickmore, University of Edinburgh</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                        
+                        <span>15:25 - 15:45 &nbsp;&nbsp;Catarina A. Carvalheda</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                        
+                        <span>15:45 - 16:15 &nbsp;&nbsp;iGEM Heidelberg</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                        
+                        <span>16:15 - 16:45 &nbsp;&nbsp;Coffee</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                    
+                        <div class="shortcodes left">
+            <p><strong> Session 4 – Chair: Lauren Strathearn</strong></p>
+                        </div>
+                        
+                        <span>16:45 - 17:30 &nbsp;&nbsp;Dr. Neil Carragher, University of Edinburgh</span>
+                        <div class="shortcodes left">
+                        </div>
+                                                        
+                        <span>17:30 - 17:50 &nbsp;&nbsp;Chiara Maniaci</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                    
+                        <div class="shortcodes left">
+            <p><strong> Closing Session </strong></p>
+                        </div>
+                                    
+                        <span>18:00 - 18:30 &nbsp;&nbsp;Networking and Poster session 2</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                        
+                        <span>18:30 - 19:00 &nbsp;&nbsp;Closing Remarks by Professor Paul Clarke and Poster Prize presentation </span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                    
+                        <div class="shortcodes left">                                                    
+            <p><strong> Evening </strong></p>
+                        </div>
+                                    
+                        <span>19:00 - 19:30 &nbsp;&nbsp;Networking time for the delegates</span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                        
+                        <span>19:30 - 21:00 &nbsp;&nbsp;Dinner </span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                    
+                        <span>21:00 - 00:00 &nbsp;&nbsp;Ceilidh </span>
+                        <div class="shortcodes left">
+                                                    </div>
+                                                    
+                    </div><!--/home-post-center-content-->
+                </div><!--/bg-home-post-center-->
+                <div class="bg-home-post-down left"><img src="http://www.picls-symposium.org/2014/wp-content/themes/eventor/style/img/bg-home-post-down.png" alt="img" title="img" /></div><!--/bg-home-post-down-->
+            </div><!--/bg-home-post-->
+
+
+            <div class="bg-home-post left">
+                <div class="bg-home-post-top left">
+                    <span>Speaker Lineup</span>
+                    <a href="http://www.picls-symposium.org/2016/speakers/">
+                        <div class="more-info-button">More Info</div>
+                    </a>
+                </div><!--/bg-home-post-top-->
+
+                <div class="bg-home-post-center left">
+                    <div class="home-post-center-content left">
+
+                        <div class="home-post-one left">
+                            <div class="home-post-one-img left">
+                                <img src="https://cloud.githubusercontent.com/assets/8017317/13666450/80c8fdbe-e6a9-11e5-8684-2d2c70229124.png" class="attachment-home_speaker wp-post-image" alt="Wendy" />
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/dr-wendy-brickmore/"><p></p></a>
+                            </div><!--/home-post-one-img-->
+                            <div class="home-post-one-text right">
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/dr-wendy-brickmore/">Dr. Wendy Bickmore</a>
+                                                                <div class="home-speaker-excerpt">MRC Human Genetics Unit, Edinburgh</div>
+                                <div class="home-post-one-button left color"><a href="http://www.picls-symposium.org/2016/speaker-lineup/dr-wendy-brickmore/">More Info</a></div>
+                            </div><!--/home-post-one-text-->
+                        </div><!--/home-post-one-->   
+                        
+                        <div class="home-post-one left">
+                            <div class="home-post-one-img left">
+                                <img src="https://cloud.githubusercontent.com/assets/8017317/13667442/40112576-e6ae-11e5-9f6c-02333848bc18.png" class="attachment-home_speaker wp-post-image" alt="Markus" />
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-markus-aebi/"><p></p></a>
+                            </div><!--/home-post-one-img-->
+                            <div class="home-post-one-text right">
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-markus-aebi/">Prof. Markus Aebi</a>
+                                                                <div class="home-speaker-excerpt">ETHZ, Zurich</div>
+                                <div class="home-post-one-button left color"><a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-markus-aebi/">More Info</a></div>
+                            </div><!--/home-post-one-text-->
+                        </div><!--/home-post-one-->  
+                                                
+                        <div class="home-post-one left">
+                            <div class="home-post-one-img left">
+                                <img src="https://cloud.githubusercontent.com/assets/8017317/15162280/f8932d94-16f9-11e6-9d6c-6052eda55ed0.png" class="attachment-home_speaker wp-post-image" alt="Tim" />
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-tim-de-meyer/"><p></p></a>
+                            </div><!--/home-post-one-img-->
+                            <div class="home-post-one-text right">
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-tim-de-meyer/">Prof. Tim De Meyer</a>
+                                                                <div class="home-speaker-excerpt">Bioinformatic Institute Ghent, Ghent</div>
+                                <div class="home-post-one-button left color"><a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-tim-de-meyer/">More Info</a></div>
+                            </div><!--/home-post-one-text-->
+                        </div><!--/home-post-one-->  
+                        
+                        <div class="home-post-one left">
+                            <div class="home-post-one-img left">
+                                <img src="https://cloud.githubusercontent.com/assets/8017317/13667453/4ad07fe8-e6ae-11e5-950b-4f00b565799d.png" class="attachment-home_speaker wp-post-image" alt="Sara" />
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/dr-sara-zanivan/"><p></p></a>
+                            </div><!--/home-post-one-img-->
+                            <div class="home-post-one-text right">
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/dr-sara-zanivan/">Dr. Sara Zanivan</a>
+                                                                <div class="home-speaker-excerpt">Beatson Institute, Glasgow</div>
+                                <div class="home-post-one-button left color"><a href="http://www.picls-symposium.org/2016/speaker-lineup/dr-sara-zanivan/">More Info</a></div>
+                            </div><!--/home-post-one-text-->
+                        </div><!--/home-post-one-->  
+                        
+                        <div class="home-post-one left">
+                            <div class="home-post-one-img left">
+                                <img src="https://cloud.githubusercontent.com/assets/8017317/13666661/8f664e34-e6aa-11e5-8ccc-82b019fcaf2f.png" class="attachment-home_speaker wp-post-image" alt="Neil" />
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-neil-carragher/"><p></p></a>
+                            </div><!--/home-post-one-img-->
+                            <div class="home-post-one-text right">
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-neil-carragher/">Prof. Neil Carragher</a>
+                                                                <div class="home-speaker-excerpt">Edinburgh Cancer Research Centre, Edinburgh</div>
+                                <div class="home-post-one-button left color"><a href="http://www.picls-symposium.org/2016/speaker-lineup/prof-neil-carragher/">More Info</a></div>
+                            </div><!--/home-post-one-text-->
+                        </div><!--/home-post-one-->  
+                        
+                        <div class="home-post-one left">
+                            <div class="home-post-one-img left">
+                                <img src="https://cloud.githubusercontent.com/assets/8017317/13670654/194b4984-e6c3-11e5-88cd-0b3330f438f3.png" class="attachment-home_speaker wp-post-image" alt="iGEM" />
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/2015-igem-heildelberg/"><p></p></a>
+                            </div><!--/home-post-one-img-->
+                            <div class="home-post-one-text right">
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/2015-igem-heildelberg/">2015 iGEM Heidelberg</a>
+                                                                <div class="home-speaker-excerpt">University of Heidelberg</div>
+                                <div class="home-post-one-button left color"><a href="http://www.picls-symposium.org/2016/speaker-lineup/2015-igem-heildelberg/">More Info</a></div>
+                            </div><!--/home-post-one-text-->
+                        </div><!--/home-post-one-->  
+                        
+                        <div class="home-post-one left">
+                            <div class="home-post-one-img left">
+                                <img src="https://cloud.githubusercontent.com/assets/8017317/13670654/194b4984-e6c3-11e5-88cd-0b3330f438f3.png" class="attachment-home_speaker wp-post-image" alt="Neil" />
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/2016-igem-dundee/"><p></p></a>
+                            </div><!--/home-post-one-img-->
+                            <div class="home-post-one-text right">
+                                <a href="http://www.picls-symposium.org/2016/speaker-lineup/2016-igem-dundee/">2016 iGEM Dundee</a>
+                                                                <div class="home-speaker-excerpt">University of Dundee</div>
+                                <div class="home-post-one-button left color"><a href="http://www.picls-symposium.org/2016/speaker-lineup/2016-igem-dundee/">More Info</a></div>
+                            </div><!--/home-post-one-text-->
+                        </div><!--/home-post-one-->  
+        
+
+
+
+        
+ 
+                   </div><!--/home-post-center-content-->
+                </div><!--/bg-home-post-center-->
+                <div class="bg-home-post-down left"><img src="http://www.picls-symposium.org/2014/wp-content/themes/eventor/style/img/bg-home-post-down.png" alt="img" title="img" /></div><!--/bg-home-post-down-->
+            </div><!--/bg-home-post-->
+
+        
+
+
+        
+                                    <!--PAGINATION-->
+                            <div class="pagination left">
+                                                            </div><!--/pagination-->
+            
+        </div><!--/wrapper-->
+    </div><!--/content-->
+<div class="bg-down-container left"></div>
+        
+      <!-- FOOTER -->
+    <div class="footer left">
+        <div class="border-header left"></div>
+            <div class="wrapper">
+                
+                         <!-- Footer Widget 1 -->
+                        <div class="footer-others left">
+                            <div class="footer_widget_holder left"><h2>About</h2>			<div class="textwidget">The College of Life Sciences’ PhD Association (<a href=\"http://picls.lifesci.dundee.ac.uk/" >PiCLS</a>) within the University of Dundee was established in 2008 to allow networking between PhD students in different subject areas. In 2010 the PiCLS symposium was introduced and was such a great success that the event is now an annual symposium run entirely by students.</div>
+		</div>                              
+                        </div><!--footer_box-->
+
+ <!-- Footer Widget 2 -->
+                        <div class="footer-others left">
+<div class="footer_widget_holder left"><h2>Search</h2><form method="get" id="searchform" class="submit-search-form" action="http://www.picls-symposium.org/2014/">
+    <div class="searchform-left left"></div>
+    <div id="s"><input type="text" name="s" class="search-input" onfocus="if(value==defaultValue)value=''" onblur="if(value=='')value=defaultValue" value=""/>
+    <input type="submit" class="search-submit-button" value="Search" name="submit" /></div>
+</form></div>                                                    </div><!--footer_box-->
+
+   </div><!--/wrapper-->
+
+            <div class="footer-copy left">
+                <div class="wrapper">
+                        <div class="footer-copyright left">  
+
+
+                                                                <div class="footer-copy-content left">
+                                                                       
+                                    <span>The committee 2016 and <a href="http://www.dundee.ac.uk/">University of Dundee.</a> All Rights Reserved.</span>
+                                    
+                                    <div class="scroll-top">
+                                        <div class="scroll-to-top-button">To the Top</div>
+
+                                        <p id="back-top">
+                                            <a href="#top"><span></span><span class="soc-icon-bg"></span></a>
+                                        </p>
+                                    </div><!--/scroll-top-->
+                                </div><!--/footer-copyright-text-->
+
+
+                        </div><!--/footer-copyright-->
+                </div><!--/wrapper-->
+            </div>
+        
+    </div><!--/footer-->
+
+
+
+</div><!--/container-->
+
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/ui/jquery.ui.droppable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/ui/jquery.ui.selectable.min.js?ver=1.10.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.piclssymposium.org\/2014\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/www.piclssymposium.org\/2014\/wp-includes\/js\/thickbox\/tb-close.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-admin/js/editor.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/underscore.min.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/shortcode.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-admin/js/media-upload.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201426'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/menu/superfish.js?ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var contact_variables = {"subject_error_message":"","name_error_message":"Please insert your name!","email_error_message":"Please insert your e-mail!","message_error_message":"Please insert your message!","all_fields_are_required":"All fields are required","mail_success_msg":"Message sent!","mail_error_msg":"Some error occured!","phone_error_msg":"","date_error_msg":"","doctor_error_msg":"","admin_bar_showing":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/common.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/fancybox/source/jquery.fancybox.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/easing/jquery.easing.1.3.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/scroll-button/scroll-button.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/flexslider/jquery.flexslider-min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/isotope/jquery.isotope.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/spiner/spin.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/jplayer/js/jquery.jplayer.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/respond/respond.src.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/hover-gallery/modernizr.custom.97074.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/hover-gallery/jquery.hoverdir.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/jquery/jquery.easing-1.3.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/horizontal/jquery.jcarousel.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/countdown/jquery.countdown.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/slit-slider/js/modernizr.custom.79639.js?ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var slit_slider_option = {"slider_autoplay":"true","slider_pause_time":"4000","slider_animation_time":"500"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/slit-slider/js/jquery.slitslider.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/slit-slider/js/jquery.ba-cond.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/themes/eventor/script/madmimi/madmimi.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/js/jquery.tooltip.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/evr_public_script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/colorbox/js/jquery.colorbox.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/scripts/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/scripts/fancybox/jquery.easing-1.3.pack.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.picls-symposium.org/2014/wp-content/plugins/event-registration/scripts/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=1.0.0'></script>
+</body>
+</html>
